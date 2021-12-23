@@ -1,8 +1,11 @@
 {
   "name": "@koreanwglasses/more-colors",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A mapping of 3000+ color names to hex codes",
   "main": "dist/src/index.js",
+  "files": [
+    "dist"
+  ],
   "repository": "git@github.com:koreanwglasses/more-colors.git",
   "author": "koreanwglasses <koreanwglasses@gmail.com>",
   "license": "MIT",
